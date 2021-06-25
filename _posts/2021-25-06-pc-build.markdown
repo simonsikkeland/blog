@@ -12,21 +12,21 @@ tags:   PC
 Since the whole world had the same plan as me, the parts especialy graphic cards and powersuply was, and still am, overpriced. To get my Nvidia GTX 1070 I had to go to the second hand market, it cost me 200$. Not to bad all things consider. The plan is to upgrade this when the market slows down, which may take years sadly. 
 
 I bought my CPU from a friend, a AMD Rysen 2700X, for 50 bucks.
- 
+
 Complete list of parts:
-	32 GB G.Skill DDR4-3200 C16 RAM         Price: 1399kr
-    ASUS B550-F motherboard                 Price: 1699kr
-    GIGABYTE AORUS P850W PSU                Price: 1399kr
-    Fractal Define C                        Price: 899kr
-    Noctua NH-U12S black edition            Price: 749kr
-    Corsair MP600 1TB M.2 SSD               Price: 2190kr
-    NVIDIA GTX 1070                         Price: 2000kr
-    AMD Rysen 2700X                         Price: 500kr
+- 32 GB G.Skill DDR4-3200 C16 RAM         Price: 1399kr
+- ASUS B550-F motherboard                 Price: 1699kr
+- GIGABYTE AORUS P850W PSU                Price: 1399kr
+- Fractal Define C                        Price: 899kr
+- Noctua NH-U12S black edition            Price: 749kr
+- Corsair MP600 1TB M.2 SSD               Price: 2190kr
+- NVIDIA GTX 1070                         Price: 2000kr
+- AMD Rysen 2700X                         Price: 500kr
     
 All in all it cost me 10835kr, by todays rate 1279$. 
 
 I now have dualboot with Linux for coding and windows for gaming.  
 Currently im testing out the Arch distribution. 
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+
 

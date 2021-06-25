@@ -1,0 +1,22 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+        <div id="contour-bg-body" class="layer-bg"></div>
+    </div>
+    {% include header.html %}
+
+    {{ content }}
+
+    {% include contact-section.html %}
+
+    {% include footer.html %}
+</body>
+
+</html>

@@ -40,9 +40,9 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 hero:
   hero-title: Learning by doing
 
-social:
-- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/simon-sikkeland-33269722/"}
-- {icon: "ti-instagram", link: "https://www.instagram.com/simonsik/"}
+# social:
+# - {icon: "ti-linkedin", link: "https://www.linkedin.com/in/simon-sikkeland-33269722/"}
+# - {icon: "ti-instagram", link: "https://www.instagram.com/simonsik/"}
 # - {icon: "ti-dribbble", link: "#"}
 # - {icon: "ti-twitter", link: "#"}
 

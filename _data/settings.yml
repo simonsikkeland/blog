@@ -41,8 +41,8 @@ hero:
   hero-title: Learning by doing
 
 social:
-# - {icon: "ti-linkedin", link: "#"}
-# - {icon: "ti-instagram", link: "#"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/simon-sikkeland-33269722/"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/simonsik/"}
 # - {icon: "ti-dribbble", link: "#"}
 # - {icon: "ti-twitter", link: "#"}
 
@@ -54,7 +54,7 @@ social:
 blurb:
 
 
-blurb-btn-link: '/about'
+blurb-btn-link: '/blog/about'
 blurb-btn-name: know more
 
 

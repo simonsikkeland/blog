@@ -11,10 +11,10 @@ address: Oslo, Norway
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: My projects, link: '/projects'}
-- {name: About, link: '/about'}
+- {name: My projects, link: '/blog/projects'}
+- {name: About, link: '/blog/about'}
 # - {name: Portfolio, link: '/portfolio'}
-- {name: Contact, link: '/contact'}
+- {name: Contact, link: '/blog/contact'}
 
 
 #-------------------------------

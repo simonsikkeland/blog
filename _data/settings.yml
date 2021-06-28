@@ -1,11 +1,11 @@
 #-------------------------------
 # General Site Settings
 
-title: Simons project space
+title: Simons space
 logo:
 author: Simon Sikkeland
-description: Testing testing
-email: example@gmail.com
+description: My corner on the internet.
+email: simon.space@gmail.com
 phone: +47 123 45 678
 address: Oslo, Norway
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
@@ -110,22 +110,39 @@ services:
 - {
     name: Jekyll and JavaScript,
     icon: ti-world,
-    description: 'Map the landscape from above, forrest, fields, urban areas and so on.',
+    description: 'Making this blog, contour plots and all.',
     active: # Add true to select section
   }
 - {
     name: Python,
     icon: ti-rocket,
-    description: 'Map areas with risk of landslide, see hazzardeus areas in your municipality.',
+    description: 'Programming the pipelines of my projects, and using frameworks on top of Python for machine leanrning.',
     active: true # Add true to select section
   }
 - {
     name: TensorFlow 2.0,
     icon: ti-stats-up,
-    description: 'See the impacts of global warming in your area, weather, water.',
+    description: 'My go to framework for, ML. Image processing and NLP is the primary background. ',
     active: # Add true to select section
   }
-
+- {
+    name: SQL,
+    icon: ti-server,
+    description: 'Main backend database. ',
+    active: # Add true to select section
+  }
+- {
+    name: Linux,
+    icon: ti-user,
+    description: 'The OS of choice for programming.  ',
+    active: # Add true to select section
+  }
+- {
+    name: GitHub,
+    icon: ti-ruler-pencil,
+    description: 'For version controll and host of this page.',
+    active: # Add true to select section
+  }
 
 # Portfolio Page
 portfolio-label:

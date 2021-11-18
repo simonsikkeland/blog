@@ -3,7 +3,6 @@ layout: about
 title: About
 author: Simon Sikkeland
 image: assets/images/about/simon_profile.jpg
-signature: assets/images/about/signature.png
 ---
 
 Hi,
